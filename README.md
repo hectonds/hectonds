@@ -26,13 +26,6 @@ HI, my name is Hecton sou estudante de Engenharia de Software e Economista, me f
             src=""
         />
     </a>
-    <a href="">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://github.com/hectonds"
-        />
-    </a>
 </p>
 
 ---
@@ -154,23 +147,3 @@ HI, my name is Hecton sou estudante de Engenharia de Software e Economista, me f
 
 <br/>
 <br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github.com/hectonds" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="" 
-  />
-
-</p>
