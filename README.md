@@ -30,7 +30,7 @@ HI, my name is Hecton sou estudante de Engenharia de Software e Economista, me f
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src=""
+            src="https://github.com/hectonds"
         />
     </a>
 </p>
@@ -163,7 +163,7 @@ HI, my name is Hecton sou estudante de Engenharia de Software e Economista, me f
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="" 
+    src="https://github.com/hectonds" 
   />
 
 <img 
