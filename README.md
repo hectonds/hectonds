@@ -1,7 +1,8 @@
 # 👩🏻‍💻 Hecton
 
 **`Engenheiro e Economista`**
-HI, my name is Hecton sou estudante de Engenharia de Software e Economista, sou formado em Técnico em Desenvolvimento de Sistemas na ECID. Gosto muito de tecnologia e videogames, e codar.
+
+<p> HI, my name is Hecton sou estudante de Engenharia de Software e Economista, sou formado em Técnico em Desenvolvimento de Sistemas na ECID.</p>
 
 
 ---
